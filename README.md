@@ -37,5 +37,5 @@ This repository contains a Python script for real-time hand detection using Open
 
 2. What is OpenCV?
     
-    OpenCV is a free, open-source library for computer vision tasks.  It offers over 2500 algorithms for image processing, object detection, and real-time applications. Popular for its cross-platform compatibility and large developer community, OpenCV empowers creation of various computer vision projects.
+    OpenCV is a free, open-source library for computer vision tasks.  It offers over 2500 algorithms for image processing, object detection, and real-time applications. Popular for its cross-platform compatibility and large developer community, OpenCV empowers the creation of various computer vision projects.
 
